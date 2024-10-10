@@ -25,7 +25,7 @@ define(function () {
       /////////////////////////
 
         // default assets url, by default will be Twitter Inc. CDN
-        base: 'https://twemoji.maxcdn.com/v/14.0.2/',
+        base: 'https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/',
 
         // default assets file extensions, by default '.png'
         ext: '.png',
